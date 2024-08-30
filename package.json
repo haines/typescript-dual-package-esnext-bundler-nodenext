@@ -12,8 +12,8 @@
     "clean": "rm -rf */dist */*.tsbuildinfo"
   },
   "devDependencies": {
-    "@tsconfig/node20": "^20.1.2",
-    "@types/node": "^20.11.19",
-    "typescript": "^5.3.3"
+    "@tsconfig/node20": "^20.1.4",
+    "@types/node": "^20.16.2",
+    "typescript": "^5.5.4"
   }
 }
